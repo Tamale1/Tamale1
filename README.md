@@ -1,9 +1,10 @@
-<p align="center"><a href="https://Tamale1.github.io"><img width="80%" alt="Hello, I'm Yusuf Tamale. I do open source!"  👋 /></a></p>
+### Hi there  👋 
 
-<br />
+
 So East Africa, am a fullstack software dev. i realy love crafting and building onto idea, working in teams. i love learning new languages and working with frameworks like react, react native, laravel etc. You can check me out on my twitter https://twitter.com/yusufontwiter and on my website https://t.co/CSKwBezgDQ for any question or engagement
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tamale1)](https://github.com/Tamale1/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamale1)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
