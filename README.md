@@ -1,9 +1,9 @@
-<p align="center"><a href="https://Tamale1.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://Tamale1.github.io"><img width="80%" alt="Hello, I'm Yusuf Tamale. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br /> 👋
 So East Africa, am a fullstack software dev. i realy love crafting and building onto idea, working in teams. i love learning new languages and working with frameworks like react, react native, laravel etc. You can check me out on my twitter https://twitter.com/yusufontwiter and on my website https://t.co/CSKwBezgDQ for any question or engagement
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamale1)](https://github.com/Tamale1/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamale1)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
